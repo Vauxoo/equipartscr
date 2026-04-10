@@ -1,0 +1,8 @@
+[submodule "equipartscr"]
+	path = equipartscr
+	url = git@git.vauxoo.com:vauxoo/equipartscr.git
+	branch = 19.0
+[submodule "costarica"]
+	path = costarica
+	url = git@git.vauxoo.com:vauxoo/costarica.git
+	branch = 19.0
